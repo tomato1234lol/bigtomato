@@ -1,1 +1,18 @@
-
+{
+    "id": 57436521,
+    "name": "3SZ is Dead",
+    "author": "ThePoisonRay",
+    "creators": ["ThePoisonRay"],
+    "verifier": "ThePoisonRay",
+    "verification": "",
+    "percentToQualify": 57,
+    "password": "No Password",
+    "records": [
+        {
+            "user": "Yoloplex",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
