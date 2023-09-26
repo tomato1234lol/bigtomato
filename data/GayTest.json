@@ -55,6 +55,12 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "NoPlayerCH",
+            "link": "https://youtu.be/iCbH9_32wVo",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
