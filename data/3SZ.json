@@ -43,6 +43,12 @@
             "link": "https://www.youtube.com/watch?v=mLJFVKkrWt0",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "NoPlayerCH",
+            "link": "https://youtu.be/urEVAeVxUGE",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
