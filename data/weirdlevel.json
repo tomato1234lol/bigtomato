@@ -1,1 +1,18 @@
-
+{
+    "id": 94834823,
+    "name": "Wierdlevel",
+    "author": "Maul",
+    "creators": ["Maul"],
+    "verifier": "Maul",
+    "verification": "https://youtu.be/U_LVr2-ZIv0",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Yoloplex",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
