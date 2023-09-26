@@ -1,1 +1,48 @@
-
+{
+    "id": 57436521,
+    "name": "lycopersicion esculentum",
+    "author": "Tomato",
+    "creators": ["Tomato"],
+    "verifier": "Tomato",
+    "verification": "",
+    "percentToQualify": 57,
+    "password": "No Password",
+    "records": [
+        {
+            "user": "MyRougeYoshi",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "FBITB",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Silas123",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Dropp",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Yoloplex",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "ThePoisonRay",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
