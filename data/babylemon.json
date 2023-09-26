@@ -1,24 +1,18 @@
 {
     "id": 57436521,
-    "name": "Sample Level 3",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
+    "name": "Baby Lemon",
+    "author": "Olive60",
+    "creators": ["Olive60"],
+    "verifier": "Olive",
     "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
+    "percentToQualify": "60",
     "password": "46290",
     "records": [
         {
-            "user": "Sample_Victor_1",
+            "user": "Yoloplex",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
+            "percent": 97,
             "hz": 360
-        },
-        {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
         }
     ]
 }
