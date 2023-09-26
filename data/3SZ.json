@@ -48,7 +48,13 @@
             "user": "NoPlayerCH",
             "link": "https://youtu.be/urEVAeVxUGE",
             "percent": 100,
-            "hz": 360
+            "hz": 360  
+        },
+        {
+            "user": "Tomato",
+            "link": "",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
