@@ -4,13 +4,13 @@
     "author": "R0astT0ast",
     "creators": ["R0astT0ast"],
     "verifier": "R0astT0ast",
-    "verification": "",
+    "verification": "https://www.youtube.com/watch?v=m-EUJhfIWEo",
     "percentToQualify": 56,
     "password": "No Password",
     "records": [
         {
             "user": "FBITB",
-            "link": "",
+            "link": "https://www.youtube.com/watch?v=m-EUJhfIWEo",
             "percent": 100,
             "hz": 360
         },
