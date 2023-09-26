@@ -4,7 +4,7 @@
     "author": "Fredo3",
     "creators": ["Fredo3"],
     "verifier": "Fredo3",
-    "verification": "",
+    "verification": "https://www.youtube.com/watch?v=UkPzTSMNKbA",
     "percentToQualify": 65,
     "password": "Not Copyable",
     "records": [
@@ -68,5 +68,10 @@
             "percent": 100,
             "hz": 360
         }
+        {
+            "user": "Olive60",
+            "link": "https://www.youtube.com/watch?v=UkPzTSMNKbA",
+            "percent": 100,
+            "hz": 360
     ]
 }
