@@ -1,1 +1,48 @@
-
+{
+    "id": 94834823,
+    "name": "AFurnace",
+    "author": "WhiteFencePost",
+    "creators": ["WhiteFencePost"],
+    "verifier": "WhiteFencePost",
+    "verification": "",
+    "percentToQualify": 65,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "MyRougeYoshi",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Yoloplex",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "FBITB",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Silas123",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Refusion",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "IonBlade",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
