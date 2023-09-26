@@ -1,1 +1,36 @@
-
+{
+    "id": 57436521,
+    "name": "Rush Hour Full",
+    "author": "Olive60",
+    "creators": ["Olive60"],
+    "verifier": "Olive60",
+    "verification": "",
+    "percentToQualify": 57,
+    "password": "No Password",
+    "records": [
+        {
+            "user": "FBITB",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Yoloplex",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Refusion",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "MyRougeYoshi",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
