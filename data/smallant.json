@@ -1,1 +1,24 @@
-
+{
+    "id": 94044905,
+    "name": "I Come I Pee It Hurt",
+    "author": "RottenTomatos",
+    "creators": ["RottenTomatos"],
+    "verifier": "RottenTomatos",
+    "verification": "",
+    "percentToQualify": 65,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Yoloplex",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "MyRougeYoshi",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
