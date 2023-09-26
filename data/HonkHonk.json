@@ -54,7 +54,13 @@
             "user": "Veemo10",
             "link": "",
             "percent": 100,
-            "hz": 60
+            "hz": 60 
+        },
+        {
+            "user": "IonBladeGD",
+            "link": "https://youtu.be/pFGVeLiiRLg",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
