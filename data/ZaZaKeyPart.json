@@ -1,1 +1,54 @@
-
+{
+    "id": 57436521,
+    "name": "ZaZa Key Part",
+    "author": "ThePoisonRay",
+    "creators": ["ThePoisonRay"],
+    "verifier": "ThePoisonRay",
+    "verification": "",
+    "percentToQualify": 100,
+    "password": "No Password",
+    "records": [
+        {
+            "user": "Dropp",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "MyRougeYoshi",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Fredo3",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Refusion",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "FBITB",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Silas123",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Yoloplex",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
