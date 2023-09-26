@@ -15,10 +15,15 @@
             "hz": 360
         },
         {
-             "user": "NoplayerCH",
+            "user": "NoplayerCH",
             "link": "",
             "percent": 100,
             "hz": 360
-        }
+        },
+        {
+            "user": "Veemo10",
+            "link": "",
+            "percent": 100,
+            "hz": 360
     ]
 }
