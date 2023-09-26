@@ -1,1 +1,18 @@
-
+{
+    "id": 94837881,
+    "name": "Zazabath",
+    "author": "R0astT0ast",
+    "creators": ["R0astT0ast"],
+    "verifier": "R0astT0ast",
+    "verification": "https://youtu.be/BUX0tb4osS4?si=63XsetXbqFsxnUC3",
+    "percentToQualify": 67,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "none",
+            "link": "",
+            "percent": 0,
+            "hz": 0
+        }
+    ]
+}
