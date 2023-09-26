@@ -15,14 +15,9 @@
         "link": "https://www.youtube.com/@FBITB-GD"
     },
     {
-        "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "admin",
+        "name": "Quinn",
+        "link": "https://www.youtube.com/@ThePoisonRay"
     },
     {
         "role": "dev",
