@@ -1,1 +1,18 @@
-
+{
+    "id": 94834823,
+    "name": "454 chevorlet m0tor",
+    "author": "ThePoisonRay",
+    "creators": ["ThePoisonRay"],
+    "verifier": "ThePoisonRay",
+    "verification": "",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Yoloplex",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
