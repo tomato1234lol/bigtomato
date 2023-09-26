@@ -1,1 +1,36 @@
-
+{
+    "id": 57436521,
+    "name": "Droplit",
+    "author": "Zolism",
+    "creators": ["Zolism"],
+    "verifier": "Zolism",
+    "verification": "",
+    "percentToQualify": 57,
+    "password": "No Password",
+    "records": [
+        {
+            "user": "Yoloplex",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "ThePoisonRay",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Dropp",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "MyRougeYoshi",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
