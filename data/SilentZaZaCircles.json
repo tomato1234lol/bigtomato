@@ -1,1 +1,18 @@
-
+{
+    "id": 94815072,
+    "name": "Silent ZaZa Circles",
+    "author": "Quinn",
+    "creators": ["Quinn"],
+    "verifier": "Quinn",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": "62",
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "MyRougeYoshi",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
