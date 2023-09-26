@@ -5,14 +5,14 @@
     "creators": ["FBITB"],
     "verifier": "MyRougeYoshi",
     "verification": "",
-    "percentToQualify": 57,
+    "percentToQualify": 50,
     "password": "No Password",
     "records": [
         {
-            "user": "none",
+            "user": "Yoloplex",
             "link": "",
-            "percent": 0,
-            "hz": 0
+            "percent": 56,
+            "hz": 360
         }
     ]
 }
