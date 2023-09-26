@@ -1,1 +1,48 @@
-
+{
+    "id": 94834823,
+    "name": "Gay Test",
+    "author": "WoolEndy",
+    "creators": ["WoolEndy"],
+    "verifier": "WoolEndy",
+    "verification": "",
+    "percentToQualify": 65,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "MyRougeYoshi",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "FBITB",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "IonBlade",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "ThePoisonRay",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Yoloplex",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "WhiteFencePost",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
