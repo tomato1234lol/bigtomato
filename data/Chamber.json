@@ -1,1 +1,24 @@
-
+{
+    "id": 94834823,
+    "name": "Chamber",
+    "author": "Olive60",
+    "creators": ["Olive60"],
+    "verifier": "Olive60",
+    "verification": "https://youtu.be/m1TJiim7CZk?si=zPyjgGQXg4kxLfj8",
+    "percentToQualify": 62,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Yoloplex",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "MyRougeYoshi",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
