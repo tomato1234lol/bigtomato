@@ -1,1 +1,48 @@
-
+{
+    "id": 57436521,
+    "name": "Dull Blade",
+    "author": "WhiteFencePost",
+    "creators": ["WhiteFencePost"],
+    "verifier": "WhiteFencePost",
+    "verification": "",
+    "percentToQualify": 57,
+    "password": "No Password",
+    "records": [
+        {
+            "user": "Refusion",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "R0astT0ast",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "FBITB",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "IonBlade",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Yoloplex",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Dropp",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
