@@ -1,1 +1,30 @@
-
+{
+    "id": 57436521,
+    "name": "ZaZa Circles",
+    "author": "R0astT0ast",
+    "creators": ["R0astT0ast"],
+    "verifier": "R0astT0ast",
+    "verification": "",
+    "percentToQualify": 56,
+    "password": "No Password",
+    "records": [
+        {
+            "user": "FBITB",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Yoloplex",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Refusion",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
