@@ -1,1 +1,72 @@
-
+{
+    "id": 94834823,
+    "name": "Chandelier X",
+    "author": "R0astT0ast",
+    "creators": ["R0astT0ast"],
+    "verifier": "R0astT0ast",
+    "verification": "",
+    "percentToQualify": 65,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "MyRougeYoshi",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Yoloplex",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Silas123",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "NoPlayerCH",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "IAmABlueBacon",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "FBITB",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Dropp",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Fredo3",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "ThePoisonRay",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "IonBlade",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
