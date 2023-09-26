@@ -1,1 +1,42 @@
-
+{
+    "id": 94834823,
+    "name": "3 Seconds ZAZA",
+    "author": "Fredo3",
+    "creators": ["Fredo3"],
+    "verifier": "Fredo3",
+    "verification": "",
+    "percentToQualify": 65,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Yoloplex",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "MyRougeYoshi",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "ThePoisonRay",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "FBITB",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Maul",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
