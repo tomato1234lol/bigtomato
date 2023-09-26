@@ -1,1 +1,30 @@
-
+{
+    "id": 57436521,
+    "name": "Zazaclysm",
+    "author": "Fredo3",
+    "creators": ["Fredo3"],
+    "verifier": "Refusion",
+    "verification": "",
+    "percentToQualify": 57,
+    "password": "No Password",
+    "records": [
+        {
+            "user": "MyRougeYoshi",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Dropp",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Yoloplex",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
