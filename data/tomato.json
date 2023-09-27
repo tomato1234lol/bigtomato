@@ -61,6 +61,12 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Refusion",
+            "link": "",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
