@@ -1,1 +1,18 @@
-
+{
+    "id": 94868827,
+    "name": "ZZZZZZZZZZZZZZZZZZZZ",
+    "author": "Zolism",
+    "creators": ["Zolism"],
+    "verifier": "Zolism",
+    "verification": "https://youtu.be/ioth5gT27K0",
+    "percentToQualify": 65,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Yoloplex",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
