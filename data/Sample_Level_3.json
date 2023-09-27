@@ -4,13 +4,13 @@
     "author": "MyRougeYoshi",
     "creators": ["MyRougeYoshi"],
     "verifier": "MyRougeYoshi",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "verification": "https://www.youtube.com/watch?v=6nrkj50jn8Q&ab_channel=Refusion",
     "percentToQualify": "52",
     "password": "46290",
     "records": [
         {
             "user": "Refusion",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "link": "https://www.youtube.com/watch?v=6nrkj50jn8Q&ab_channel=Refusion",
             "percent": 100,
             "hz": 360
         },
