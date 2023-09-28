@@ -1,0 +1,18 @@
+{
+    "id": 94908505,
+    "name": "3SZ In Hell",
+    "author": "MyRougeYoshi",
+    "creators": ["MyRougeYoshi"],
+    "verifier": "MyRougeYoshi",
+    "verification": "",
+    "percentToQualify": 70,
+    "password": "No Password",
+    "records": [
+        {
+            "user": "Yoloplex",
+            "link": "",
+            "percent": 69,
+            "hz": 360
+        }
+    ]
+}
