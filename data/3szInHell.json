@@ -1,11 +1,11 @@
 {
-    "id": 94908505,
-    "name": "3SZ In Hell",
+    "id": 94905943,
+    "name": "3sz In Hell",
     "author": "MyRougeYoshi",
     "creators": ["MyRougeYoshi"],
     "verifier": "MyRougeYoshi",
-    "verification": "",
-    "percentToQualify": 70,
+    "verification": "https://youtu.be/2fC9wplZPkI?si=zZHaGbwwb2vHrQp9",
+    "percentToQualify": 59,
     "password": "No Password",
     "records": [
         {
@@ -16,3 +16,4 @@
         }
     ]
 }
+
