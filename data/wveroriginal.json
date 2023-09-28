@@ -1,1 +1,19 @@
+{
+    "id": 94907223,
+    "name": "Wver Original",
+    "author": "WhiteFencePost",
+    "creators": ["WhiteFencePost"],
+    "verifier": "Ploop8313",
+    "verification": "https://youtu.be/wSmnfTD4POg?si=cKaaSqMbZ8MAvvJk",
+    "percentToQualify": 80,
+    "password": "No Password",
+    "records": [
+        {
+            "user": "MyRougeYoshi",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
 
