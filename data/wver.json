@@ -1,1 +1,18 @@
-
+{
+    "id": 94906832,
+    "name": "Wver",
+    "author": "WhiteFencePost",
+    "creators": ["WhiteFencePost"],
+    "verifier": "Ploop8313",
+    "verification": "https://youtu.be/_Wbp8OdBmqg?si=sJwvBKFzttZ66GGH",
+    "percentToQualify": 71,
+    "password": "No Password",
+    "records": [
+        {
+            "user": "none",
+            "link": "",
+            "percent": 0,
+            "hz": 0
+        }
+    ]
+}
