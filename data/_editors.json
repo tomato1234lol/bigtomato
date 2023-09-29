@@ -5,14 +5,14 @@
         "link": "https://www.youtube.com/channel/UC86EoIoS86hugaaV-axnsYQ"
     },
     {
-        "role": "admin",
-        "name": "Yoloplex",
-        "link": "https://www.youtube.com/@Yoloplex"
-    },
-    {
       "role": "owner",
         "name": "FBITB",
         "link": "https://www.youtube.com/@FBITB-GD"
+    },    
+    {
+        "role": "admin",
+        "name": "Yoloplex",
+        "link": "https://www.youtube.com/@Yoloplex"
     },
     {
         "role": "admin",
