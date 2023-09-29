@@ -18,7 +18,7 @@
             "user": "FBITB",
             "link": "",
             "percent": 100,
-            "hz": 360
+            "hz": 43357575
         },
         {
             "user": "IonBlade",
@@ -73,6 +73,12 @@
             "link": "",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Olive60",
+            "link": "https://www.youtube.com/watch?v=uuwGsYO_LlA",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
