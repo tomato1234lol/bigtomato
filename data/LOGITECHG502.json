@@ -1,1 +1,18 @@
-
+{
+    "id": 94813521,
+    "name": "LOGITECH G502",
+    "author": "ThePoisonRay",
+    "creators": ["ThePoisonRay"],
+    "verifier": "ThePoisonRay",
+    "verification": "https://youtu.be/2fC9wplZPkI?si=zZHaGbwwb2vHrQp9",
+    "percentToQualify": 59,
+    "password": "No Password",
+    "records": [
+        {
+            "user": "none",
+            "link": "",
+            "percent": 0,
+            "hz": 0
+        }
+    ]
+}
