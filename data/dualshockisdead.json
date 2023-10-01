@@ -1,1 +1,19 @@
+{
+    "id": 94972913,
+    "name": "DualShock is dead",
+    "author": "MyRougeYoshi",
+    "creators": ["MyRougeYoshi"],
+    "verifier": "MyRougeYoshi",
+    "verification": "https://www.youtube.com/watch?v=NDfOpGe-SJ8",
+    "percentToQualify": 80,
+    "password": "No Password",
+    "records": [
+        {
+            "user": "none",
+            "link": "",
+            "percent": 0,
+            "hz": 0
+        }
+    ]
+}
 
