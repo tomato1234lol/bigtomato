@@ -1,1 +1,19 @@
+{
+    "id": 95060555,
+    "name": "Cucurbita Moschata",
+    "author": "Tomato",
+    "creators": ["Tomato"],
+    "verifier": "Tomato",
+    "verification": "",
+    "percentToQualify": 92,
+    "password": "No Password",
+    "records": [
+        {
+            "user": "MyRougeYoshi",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
 
