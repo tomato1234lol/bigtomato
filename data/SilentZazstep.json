@@ -1,1 +1,18 @@
-
+{
+    "id": 95092697,
+    "name": "Silent Zazstep",
+    "author": "Silas123",
+    "creators": ["Silas123"],
+    "verifier": "Silas123",
+    "verification": "",
+    "percentToQualify": 62,
+    "password": "No Password",
+    "records": [
+        {
+            "user": "none",
+            "link": "",
+            "percent": 0,
+            "hz": 0
+        }
+    ]
+}
