@@ -1,1 +1,19 @@
+{
+    "id": 95086693,
+    "name": "MYHAPPYWORLD",
+    "author": "MyRougeYoshi",
+    "creators": ["WhiteFencePost"],
+    "verifier": "MyRougeYoshi",
+    "verification": "",
+    "percentToQualify": 45,
+    "password": "No Password",
+    "records": [
+        {
+            "user": "none",
+            "link": "",
+            "percent": 0,
+            "hz": 0
+        }
+    ]
+}
 
