@@ -1,1 +1,24 @@
-
+{
+    "id": 95218370,
+    "name": "ref undeafen me",
+    "author": "Tomato",
+    "creators": ["Tomato"],
+    "verifier": "Tomato",
+    "verification": "",
+    "percentToQualify": 81,
+    "password": "No Password",
+    "records": [
+        {
+            "user": "Silas123",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "MyRougeYoshi",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
