@@ -1,1 +1,19 @@
+{
+    "id": 95218370,
+    "name": "server unmute me",
+    "author": "MyRougeYoshi",
+    "creators": ["MyRougeYoshi"],
+    "verifier": "MyRougeYoshi",
+    "verification": "",
+    "percentToQualify": 90,
+    "password": "No Password",
+    "records": [
+        {
+            "user": "none",
+            "link": "",
+            "percent": 0,
+            "hz": 0
+        }
+    ]
+}
 
