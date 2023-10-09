@@ -1,1 +1,25 @@
+{
+    "id": 95286644,
+    "name": "best level evre",
+    "author": "wvy42",
+    "creators": ["wvy42"],
+    "verifier": "wvy42",
+    "verification": "https://youtu.be/T_ugR5o8IBY",
+    "percentToQualify": 100,
+    "password": "No Password",
+    "records": [
+        {
+            "user": "Silas123",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "MyRougeYoshi",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
 
