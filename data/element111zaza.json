@@ -1,1 +1,18 @@
-
+{
+    "id": 95206026,
+    "name": "Element 111 ZaZa",
+    "author": "Tomato",
+    "creators": ["Tomato"],
+    "verifier": "Tomato",
+    "verification": "https://youtu.be/KrWQx336QJc",
+    "percentToQualify": 43,
+    "password": "No Password",
+    "records": [
+        {
+            "user": "none",
+            "link": "",
+            "percent": 0,
+            "hz": 0
+        }
+    ]
+}
