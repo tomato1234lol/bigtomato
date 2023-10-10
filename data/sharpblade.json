@@ -1,1 +1,18 @@
-
+{
+    "id": 95316352,
+    "name": "Sharp Blade",
+    "author": "zKalshim",
+    "creators": ["WhiteFencePost, zKalshim"],
+    "verifier": "zKalshim",
+    "verification": "https://www.youtube.com/watch?v=vFrWpghRt6E",
+    "percentToQualify": 48,
+    "password": "No Password",
+    "records": [
+        {
+            "user": "none",
+            "link": "",
+            "percent": 0,
+            "hz": 0
+        }
+    ]
+}
