@@ -9,10 +9,10 @@
     "password": "Not Copyable",
     "records": [
         {
-            "user": "MyRougeYoshi",
-            "link": "https://www.youtube.com/watch?v=EMUzQtLuwSk",
-            "percent": 100,
-            "hz": 360
+            "user": "none",
+            "link": "",
+            "percent": 0,
+            "hz": 0
         }
     ]
 }
