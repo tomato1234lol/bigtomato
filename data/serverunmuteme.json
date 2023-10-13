@@ -3,18 +3,12 @@
     "name": "server unmute me",
     "author": "MyRougeYoshi",
     "creators": ["MyRougeYoshi"],
-    "verifier": "MyRougeYoshi",
+    "verifier": "Silas123",
     "verification": "https://youtu.be/c2XwFtewmwE",
     "percentToQualify": 90,
     "password": "No Password",
     "records": [
-        {
-            "user": "Silas123",
-            "link": "",
-            "percent": 100,
-            "hz": 360
-        },
-        {
+         {
             "user": "Tomato",
             "link": "",
             "percent": 100,
