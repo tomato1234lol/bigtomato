@@ -19,6 +19,12 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "MyRougeYoshi",
+            "link": "https://drive.google.com/file/d/1LWJziQuqS-cAZ9n9o108Wka5VpNNe0TG/view?usp=drivesdk",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
