@@ -3,17 +3,11 @@
     "name": "enby that likes men1",
     "author": "MyRougeYoshi",
     "creators": ["MyRougeYoshi"],
-    "verifier": "MyRougeYoshi",
+    "verifier": "Silas123",
     "verification": "https://youtu.be/W3lKjhXwU5o",
     "percentToQualify": 100,
     "password": "No Password",
     "records": [
-        {
-            "user": "Silas123",
-            "link": "",
-            "percent": 100,
-            "hz": 60
-        },
         {
             "user": "Tomato",
             "link": "",
