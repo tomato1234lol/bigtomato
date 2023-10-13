@@ -8,13 +8,7 @@
     "percentToQualify": 57,
     "password": "No Password",
     "records": [
-        {
-            "user": "MyRougeYoshi",
-            "link": "",
-            "percent": 100,
-            "hz": 360
-        },
-        {
+       {
             "user": "Dropp",
             "link": "",
             "percent": 100,
