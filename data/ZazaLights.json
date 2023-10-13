@@ -9,10 +9,10 @@
     "password": "Not Copyable",
     "records": [
         {
-            "user": "MyRougeYoshi",
-            "link": "https://drive.google.com/file/d/10acZZeUSSdRKVVNgMhGXlaGl3pCdEZbR/view?usp=sharing",
-            "percent": 100,
-            "hz": 360
+            "user": "none",
+            "link": "",
+            "percent": 0,
+            "hz": 0
         }
     ]
 }
