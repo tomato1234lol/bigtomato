@@ -9,7 +9,7 @@
     "password": "No Password",
     "records": [
         {
-            "user": "",
+            "user": "none",
             "link": "",
             "percent": 0,
             "hz": 0
