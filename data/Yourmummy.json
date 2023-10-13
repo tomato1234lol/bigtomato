@@ -3,18 +3,12 @@
     "name": "Your mummy by endlev",
     "author": "MyRougeYoshi",
     "creators": ["MyRougeYoshi"],
-    "verifier": "MyRougeYoshi",
+    "verifier": "Dropp",
     "verification": "https://www.youtube.com/watch?v=eOUJZPn8YuU",
     "percentToQualify": 57,
     "password": "No Password",
     "records": [
-        {
-            "user": "Dropp",
-            "link": "",
-            "percent": 100,
-            "hz": 360
-        },
-        {
+       {
             "user": "Fedora",
             "link": "",
             "percent": 100,
