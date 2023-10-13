@@ -9,10 +9,10 @@
     "password": "No Password",
     "records": [
         {
-            "user": "MyRougeYoshi",
+            "user": "none",
             "link": "",
-            "percent": 100,
-            "hz": 360
+            "percent": 0,
+            "hz": 0
         }
     ]
 }
