@@ -9,10 +9,16 @@
     "password": "No Password",
     "records": [
         {
-            "user": "none",
+            "user": "WoolEndy",
+            "link": "https://youtu.be/4ZGEG1ENInQ?si=MBbnWMc_SLgYpjFr",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Silas123",
             "link": "",
-            "percent": 0,
-            "hz": 0
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
