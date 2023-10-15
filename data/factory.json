@@ -9,10 +9,10 @@
     "password": "No Password",
     "records": [
         {
-            "user": "none",
-            "link": "",
-            "percent": 0,
-            "hz": 0
+            "user": "MyRougeYoshi",
+            "link": "https://drive.google.com/file/d/1Mb7CqIkIg32VV7IG02Zi7F8MxnFHYnyT/view?usp=drive_link",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
