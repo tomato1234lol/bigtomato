@@ -37,6 +37,12 @@
             "link": "https://youtu.be/9DPedEUcoIg",
             "percent": 100,
             "hz": 100
+        },
+        {
+            "user": "ThePoisonRay",
+            "link": "",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
