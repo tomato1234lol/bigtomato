@@ -1,1 +1,20 @@
+{
+    "id": 95726158,
+    "name": "LSD Challenge",
+    "author": "R0astT0ast",
+    "creators": ["R0astT0ast"],
+    "verifier": "R0astT0ast",
+    "verification": "https://www.youtube.com/watch?v=o5udHvTybQU",
+    "percentToQualify": 57,
+    "password": "No Password",
+    "records": [
+        {
+            "user": "none",
+            "link": "",
+            "percent": 0,
+            "hz": 0
+        }
+    ]
+}
+
 
