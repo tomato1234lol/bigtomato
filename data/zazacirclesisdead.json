@@ -9,10 +9,10 @@
     "password": "No Password",
     "records": [
         {
-            "user": "none",
+            "user": "Tomato",
             "link": "",
-            "percent": 0,
-            "hz": 0
+            "percent": 99999999999999999,
+            "hz": 60
         }
     ]
 }
