@@ -1,15 +1,15 @@
 {
     "id": 95924410,
     "name": "Theory of ZaZa 2",
-    "author": "MyRougeYoshi",
-    "creators": ["MyRougeYoshi"],
-    "verifier": "MyRougeYoshi",
+    "author": "Silas12",
+    "creators": ["Silas123"],
+    "verifier": "Silas123",
     "verification": "https://www.youtube.com/watch?v=Y-nSmSBVQlw",
     "percentToQualify": 70,
     "password": "No Password",
     "records":[
         {
-            "user": "Silas123",
+            "user": "MyRougeYoshi",
             "link": "",
             "percent": 100,
             "hz": 360
