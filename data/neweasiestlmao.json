@@ -13,6 +13,12 @@
             "link": "https://drive.google.com/file/d/1Ooazl4ha7HmOcQgJ0e8rDap_dcHT1M9b/view?usp=drivesdk",
             "percent": 100,
             "hz": 60
+            },
+        {
+            "user": "Tomato",
+            "link": "",
+            "percent": 100,
+            "hz": 288
         }
     ]
 }
