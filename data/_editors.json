@@ -1,4 +1,4 @@
-[
+][
     {
         "role": "owner",
         "name": "Silas123",
@@ -28,6 +28,11 @@
         "role": "admin",
         "name": "lemonpug",
         "link": "https://www.youtube.com/@olive1421"
+    },
+    {
+        "role": "admin",
+        "name": "MyRougeYoshi",
+        "link": "https://www.youtube.com/@MyRougeYoshi"
     },
     {
         "role": "dev",
