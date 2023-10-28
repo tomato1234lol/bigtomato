@@ -8,6 +8,12 @@
     "percentToQualify": 70,
     "password": "No Password",
     "records":[
+                {
+            "user": "Silas123",
+            "link": "",
+            "percent": 100,
+            "hz": "360 probably"
+        },
     ]
 }
 
