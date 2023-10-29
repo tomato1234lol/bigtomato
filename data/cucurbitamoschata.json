@@ -19,6 +19,12 @@
             "link": "https://youtu.be/b38K2KvGWGQ",
             "percent": 100,
             "hz": 100
+        },
+        {
+            "user": "MyRougeYoshi",
+            "link": "",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
