@@ -43,6 +43,12 @@
             "link": "https://youtu.be/R9ny4E6FOI4?si=JsOToyOk-zkFU0h1",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "GetMauled",
+            "link": "",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
