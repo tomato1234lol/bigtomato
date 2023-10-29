@@ -3,16 +3,16 @@
     "name": "dont click",
     "author": "Zolism",
     "creators": ["Zolism"],
-    "verifier": "Zolism",
+    "verifier": "MyRougeYoshi",
     "verification": "https://www.youtube.com/watch?v=GeFPQUXG86I",
     "percentToQualify": 50,
     "password": "No Password",
     "records":[
         {
-            "user": "MyRougeYoshi",
+            "user": "none",
             "link": "",
-            "percent": 100,
-            "hz": 360
+            "percent": 12200,
+            "hz": 360211111
         }
     ]
 }
