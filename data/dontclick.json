@@ -1,0 +1,18 @@
+{
+    "id": 95940944,
+    "name": "dont click",
+    "author": "Zolism",
+    "creators": ["Zolism"],
+    "verifier": "Zolism",
+    "verification": "https://www.youtube.com/watch?v=GeFPQUXG86I",
+    "percentToQualify": 50,
+    "password": "No Password",
+    "records":[
+        {
+            "user": "MyRougeYoshi",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
