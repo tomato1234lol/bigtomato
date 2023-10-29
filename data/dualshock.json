@@ -13,6 +13,12 @@
             "link": "",
             "percent": 100,
             "hz": 288
+        },
+        {
+            "user": "GetMauled",
+            "link": "https://www.youtube.com/watch?v=KL-YbUebjig",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
