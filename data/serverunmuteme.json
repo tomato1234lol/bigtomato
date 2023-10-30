@@ -55,6 +55,12 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "SmasherDork",
+            "link": "https://youtu.be/TBqd7nfIHJ0?si=YrAUNwNVZvPJYFK7",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
