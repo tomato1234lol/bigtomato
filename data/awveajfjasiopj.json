@@ -1,0 +1,18 @@
+{
+    "id": 95974956,
+    "name": "awveajfjasiopj",
+    "author": "Zolism",
+    "creators": ["Zolism"],
+    "verifier": "Zolism",
+    "verification": "https://www.youtube.com/watch?v=EMUzQtLuwSk",
+    "percentToQualify": 100,
+    "password": "No Password",
+    "records":[
+        {
+            "user": "MyRougeYoshi",
+            "link": "https://www.google.com/search?q=sodium+chloride&client=firefox-b-d&sca_esv=577869291&sxsrf=AM9HkKlG8WfjScu4V-pTniylYibzYAROwg%3A1698688398461&ei=ju0_ZcHiG_OshbIPureYkA0&ved=0ahUKEwjB4cu0q56CAxVzVkEAHbobBtIQ4dUDCA8&uact=5&oq=sodium+chloride&gs_lp=Egxnd3Mtd2l6LXNlcnAiD3NvZGl1bSBjaGxvcmlkZTIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwA0i98qcCUABYAHACeAGQAQCYAQCgAQCqAQC4AQPIAQDiAwQYACBBiAYBkAYI&sclient=gws-wiz-serp",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
