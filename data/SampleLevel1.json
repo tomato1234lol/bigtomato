@@ -7,8 +7,9 @@
     "verification": "https://youtu.be/m1TJiim7CZk?si=zPyjgGQXg4kxLfj8",
     "percentToQualify": 49,
     "password": "Not Copyable",
-    "records": [ mobile: true
+    "records": [
         {
+            mobile: true
             "user": "MyRougeYoshi",
             "link": "https://youtu.be/EMUzQtLuwSk",
             "percent": 100,
