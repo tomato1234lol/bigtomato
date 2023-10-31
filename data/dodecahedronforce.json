@@ -1,0 +1,18 @@
+{
+    "id": 10155484,
+    "name": "dodechahedron force",
+    "author": "MyRougeYoshi",
+    "creators": ["MyRougeYoshi"],
+    "verifier": "MyRougeYoshi",
+    "verification": "https://www.youtube.com/watch?v=video1234",
+    "percentToQualify": 55,
+    "password": "No Password",
+    "records":[
+        {
+            "user": "none",
+            "link": "",
+            "percent": -1,
+            "hz": 0
+        }
+    ]
+}
