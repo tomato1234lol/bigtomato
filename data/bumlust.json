@@ -1,0 +1,18 @@
+{
+    "id": 86115774,
+    "name": "Bumlust",
+    "author": "jNoctal",
+    "creators": ["jNoctal"],
+    "verifier": "jNoctal",
+    "verification": "https://youtu.be/lLKQ1lt4zBA?si=ylPc4QG7YGQbqTKw",
+    "percentToQualify": 35,
+    "password": "No Password",
+    "records":[
+        {
+            "user": "victor",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
