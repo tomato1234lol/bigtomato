@@ -1,0 +1,18 @@
+{
+    "id": 96038089,
+    "name": "Lopias",
+    "author": "Ploop8313",
+    "creators": ["Ploop8313"],
+    "verifier": "Ploop8313",
+    "verification": "https://youtu.be/wvB5YUZ9_jc",
+    "percentToQualify": 27,
+    "password": "No Password",
+    "records":[
+       {
+            "user": "MyRougeYoshi",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
