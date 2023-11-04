@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=r_jF6tUgJhg",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "tricklength",
+            "link": "https://www.youtube.com/watch?v=XPtuR6sdvnQ",
+            "percent": 70,
+            "hz": 360
         }
     ]
 }
