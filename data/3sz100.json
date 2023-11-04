@@ -1,0 +1,18 @@
+{
+    "id": 96146265,
+    "name": "3 seconds ZAZA x100",
+    "author": "MyRougeYoshi",
+    "creators": ["MyRougeYoshi"],
+    "verifier": "MyRougeYoshi",
+    "verification": "https://youtu.be/UXWo8hbt8jI",
+    "percentToQualify": 3,
+    "password": "No Password",
+    "records":[
+        {
+            "user": "none",
+            "link": "",
+            "percent": 0,
+            "hz": 1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+        }
+    ]
+}
