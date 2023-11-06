@@ -1,18 +1,12 @@
 {
-    "id": 10155484,
-    "name": "template",
-    "author": "author",
-    "creators": ["creators"],
-    "verifier": "verifier",
-    "verification": "https://www.youtube.com/watch?v=video1234",
+    "id": 96164846,
+    "name": "The Illusion",
+    "author": "Vaxcave",
+    "creators": ["Vaxcave"],
+    "verifier": "Vaxcave",
+    "verification": "https://www.youtube.com/watch?v=IZ-1Y30RgsY",
     "percentToQualify": 27,
     "password": "No Password",
     "records":[
-        {
-            "user": "",
-            "link": "",
-            "percent": 100,
-            "hz": 360
-        }
-    ]
+       
 }
