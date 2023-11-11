@@ -1,0 +1,18 @@
+{
+    "id": 80134820,
+    "name": "Wcropolist",
+    "author": "MyRougeYoshi",
+    "creators": ["MyRougeYoshi"],
+    "verifier": "MyRougeYoshi",
+    "verification": "https://youtu.be/gnT7PWHPlUg",
+    "percentToQualify": 58,
+    "password": "No Password",
+    "records":[
+        {
+            "user": "none",
+            "link": "",
+            "percent": 0,
+            "hz": 0
+        }
+    ]
+}
