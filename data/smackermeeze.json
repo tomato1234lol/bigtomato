@@ -1,0 +1,18 @@
+{
+    "id": 96397468,
+    "name": "smackermeeze",
+    "author": "Silas123",
+    "creators": ["Silas123 and more"],
+    "verifier": "Silas123",
+    "verification": "",
+    "percentToQualify": 33,
+    "password": "No Password",
+    "records":[
+        {
+            "user": "victor",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
