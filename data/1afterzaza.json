@@ -8,6 +8,12 @@
     "percentToQualify": 56,
     "password": "No Password",
     "records":[
+        {
+            "user": "MyRougeYoshi",
+            "link": "https://youtu.be/IFcxmzzjbww",
+            "percent": 100,
+            "hz": 360
+        }
         
     ]
 }
