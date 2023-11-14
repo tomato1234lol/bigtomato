@@ -1,0 +1,18 @@
+{
+    "id": 96014861,
+    "name": "Zanswering Zallah",
+    "author": "owormz",
+    "creators": ["owormz"],
+    "verifier": "owormz",
+    "verification": "https://youtu.be/Ejuo4ppkOUg?si=LKUMFIlyBzUyobCW",
+    "percentToQualify": 100,
+    "password": "No Password",
+    "records":[
+        {
+            "user": "MyRougeYoshi",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
