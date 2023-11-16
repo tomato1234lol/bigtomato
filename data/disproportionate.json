@@ -8,6 +8,12 @@
     "percentToQualify": 76,
     "password": "No Password",
     "records":[
+        {
+            "user": "ThePoisonRay",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
 
