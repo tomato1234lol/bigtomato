@@ -9,10 +9,10 @@
     "password": "No Password",
     "records":[
         {
-            "user": "Vaxcave",
-            "link": "https://youtu.be/6wcYrnsm1-c?si=NycwNJ3ZZF7VKvpW",
-            "percent": 100,
-            "hz": 240
+            "user": "none",
+            "link": "",
+            "percent": 0,
+            "hz": 0
         }
     ]
 }
