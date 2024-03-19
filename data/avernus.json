@@ -1,0 +1,30 @@
+{
+    "id": 89496627,
+    "name": "Avernus ",
+    "author": "PockeWindfish",
+    "creators": ["Kyhros, BoBoBoBoBoBoBo, Woom, PockeWindfish"],
+    "verifier": "Zoink",
+    "verification": "https://www.youtube.com/watch?v=16Zh8jssanc",
+    "percentToQualify": 48,
+    "password": "No Password",
+    "records": [
+        {
+            "user": "Diamond",
+            "link": "https://www.youtube.com/watch?v=oEFB-ZrhMmM",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Trick",
+            "link": "https://www.youtube.com/watch?v=aWyNtYYpjy8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Light",
+            "link": "https://www.youtube.com/watch?v=B4pxtIxuXzc",
+            "percent": 75,
+            "hz": 360
+        }
+    ]
+}
